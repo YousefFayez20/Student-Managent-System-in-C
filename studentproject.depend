@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1692288167 source:c:\users\youssef\desktop\cc++\studentproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<stdbool.h>
+
+1692289579 c:\users\youssef\desktop\cc++\studentproject\student.h
+	<stdbool.h>
+
+1692289787 source:c:\users\youssef\desktop\cc++\studentproject\student.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1692288167 source:d:\studentproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<stdbool.h>
+
+1692289579 d:\studentproject\student.h
+	<stdbool.h>
+
+1697142894 source:d:\studentproject\student.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
